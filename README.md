@@ -19,5 +19,5 @@ This repository contains a collection of scripts that allow you to download YouT
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/idossha/yt-ripper 
+   cd yt-ripper
